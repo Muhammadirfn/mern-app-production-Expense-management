@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "mern-app-production-Expense-management",
   "version": "1.0.0",
   "description": "expernse managment system",
   "main": "server.js",
